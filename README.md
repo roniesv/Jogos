@@ -1,2 +1,2 @@
 # Jogos
-games
+games: adivinhação, interagir...
