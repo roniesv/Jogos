@@ -1,2 +1,2 @@
-# Jogos
-games: adivinhação, interação, diversão...
+# JOgos, #Games
+jogo de adivinhação, pense em um numero de 1 a 31 é o game revelará o número que você pensou, não acredita? faz o teste e divirta-se.
